@@ -9399,7 +9399,7 @@ class GJGameState {
     cocos2d::CCPoint m_unkPoint33;
     bool m_unkBool20;
     bool m_unkBool21;
-    bool m_unkBool22;
+    bool m_audioOnDeath;
     unsigned int m_unkUint14;
     bool m_unkBool26;
     bool m_cameraShakeEnabled;
